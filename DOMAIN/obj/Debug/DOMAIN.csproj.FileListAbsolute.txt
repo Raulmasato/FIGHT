@@ -1,0 +1,6 @@
+C:\Users\Edwin King\source\repos\DOMAIN\obj\Debug\DOMAIN.csproj.AssemblyReference.cache
+C:\Users\Edwin King\source\repos\DOMAIN\obj\Debug\DOMAIN.csproj.CoreCompileInputs.cache
+C:\Users\Edwin King\source\repos\DOMAIN\bin\Debug\DOMAIN.dll
+C:\Users\Edwin King\source\repos\DOMAIN\bin\Debug\DOMAIN.pdb
+C:\Users\Edwin King\source\repos\DOMAIN\obj\Debug\DOMAIN.dll
+C:\Users\Edwin King\source\repos\DOMAIN\obj\Debug\DOMAIN.pdb
